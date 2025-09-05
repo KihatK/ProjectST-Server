@@ -1,0 +1,15 @@
+.vs/
+/CsvHelper/bin/
+/CsvHelper/obj/
+/DummyClient/bin/
+/DummyClient/obj/
+/PacketGenerator/bin/
+/PacketGenerator/obj/
+/Server/WalletSwmServerProd/
+/Server/config.json
+/Server/Migrations/
+/Server/bin/**
+/Server/obj/
+!/Server/bin/Debug/net6.0/linux-x64/publish/Server
+/ServerCore/bin/
+/ServerCore/obj/

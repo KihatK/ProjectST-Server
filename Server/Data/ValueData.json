@@ -1,0 +1,13 @@
+﻿{
+  "Session": {
+    "FieldSize": "31",
+    "WinterWarmSize": "1",
+    "SeasonTime": "180",
+    "SeedRadius": "0.5",
+    "SpawnAnimalInterval": "20",
+    "FinishTimeWhenAllCropHarvested": "5",
+    "MinAmountSeedForCollect": "5",
+    "MaxAmountSeedForCollect": "10",
+    "SeedSpawnTime": "15"
+  }
+}

@@ -1,0 +1,124 @@
+﻿{
+  "farm": [
+    {
+      //AI의 이름 추천: 혹한의 생존
+      "id": "20000",
+      "name": "겨울",
+      "description": "추위를 이겨내는 강한 체력으로 불 범위 밖에서도 더 오래 버틸 수 있습니다",
+      "cooltime": "0.0",
+      "seaosn": 0,
+      "level": {
+        "1": {
+          "health": "150",
+          "price": "0"
+        },
+        "2": {
+          "health": "175",
+          "price": "1000"
+        },
+        "3": {
+          "health": "200",
+          "price": "2000"
+        },
+        "4": {
+          "health": "225",
+          "price": "3000"
+        },
+        "5": {
+          "health": "250",
+          "price": "5000"
+        }
+      }
+    },
+    {
+      //AI의 이름 추천: 자연의 감각
+      "id": "20001",
+      "name": "봄",
+      "description": "더 넓은 탐지 능력으로 숨겨진 씨앗을 더 쉽게 발견할 수 있습니다",
+      "cooltime": "0.0",
+      "season": 1,
+      "level": {
+        "1": {
+          "range": "12.5",
+          "price": "0"
+        },
+        "2": {
+          "range": "15.0",
+          "price": "1000"
+        },
+        "3": {
+          "range": "17.5",
+          "price": "2000"
+        },
+        "4": {
+          "range": "20.0",
+          "price": "3000"
+        },
+        "5": {
+          "range": "25.0",
+          "price": "5000"
+        }
+      }
+    },
+    {
+      //AI의 이름 추천: 풀베기의 달인
+      "id": "20002",
+      "name": "여름",
+      "description": "잡초 제거 미니게임을 더 빠르고 쉽게 성공할 수 있습니다",
+      "cooltime": "0.0",
+      "season": 2,
+      "level": {
+        "1": {
+          "minimum_minigame_keydown": "6",
+          "price": "0"
+        },
+        "2": {
+          "minimum_minigame_keydown": "5",
+          "price": "1000"
+        },
+        "3": {
+          "minimum_minigame_keydown": "4",
+          "price": "2000"
+        },
+        "4": {
+          "minimum_minigame_keydown": "3",
+          "price": "3000"
+        },
+        "5": {
+          "minimum_minigame_keydown": "2",
+          "price": "5000"
+        }
+      }
+    },
+    {
+      //AI의 이름 추천: 허수아비 설치
+      "id": "20003",
+      "name": "가을",
+      "description": "허수아비로 동물들의 주의를 끌어 작물 수확을 방해받지 않습니다",
+      "cooltime": "5.0",
+      "season": 3,
+      "level": {
+        "1": {
+          "scarecrow_health": "100",
+          "price": "0"
+        },
+        "2": {
+          "scarecrow_health": "125",
+          "price": "1000"
+        },
+        "3": {
+          "scarecrow_health": "150",
+          "price": "2000"
+        },
+        "4": {
+          "scarecrow_health": "175",
+          "price": "3000"
+        },
+        "5": {
+          "scarecrow_health": "200",
+          "price": "5000"
+        }
+      }
+    }
+  ]
+}
